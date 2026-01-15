@@ -4,7 +4,7 @@ A simulated Windows x64 backdoor challenge designed to push your reverse-enginee
 Analyze, bypass anti-analysis tricks, explore static & dynamic behavior, and extract the hidden **CTF{flag}**.
 
 - Category: Reverse Engineering  
-- Difficulty: Hard
+- Difficulty: Easy
 - Points: 500  
 - Safe to analyze – educational only
 
